@@ -1,4 +1,4 @@
-![logo](https://github.com/ihtesham0332/Banner/blob/main/Black%20and%20Blue%20Futuristic%20Technology%20Banner%20Landscape.jpg)
+![logo](https://github.com/ihtesham0332/ihtesham0332/blob/main/Black%20and%20Blue%20Futuristic%20Technology%20Banner%20Landscape.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Ihtesham Khan</h1>
 <h3 align="center">Software Engineer Artificial intelligence (AI) Lover</h3>
 
